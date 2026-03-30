@@ -1,0 +1,22 @@
+【日付】2026-03-30
+【完了した作業】
+高山市暮らし応援商品券 加盟店検索Webサイト 全ファイル作成
+
+作成ファイル一覧:
+- index.html         … 検索UI（地域・業種・フリーワード・さるぼぼコイン絞り込み、カード形式表示、ページネーション）
+- data/stores.json   … 加盟店データ（1845件、高山市CSVをShift-JISデコードして変換済み）
+- scripts/update_data.py … データ更新Pythonスクリプト
+- .github/workflows/update.yml … GitHub Actions自動更新（毎日17時JST）
+- README.md          … サイト説明・使い方
+
+【次にやること】
+- GitHubにリポジトリを作成してpush（必要であれば）
+- GitHub Pages で公開設定
+- 実際のデータ更新タイミングの確認・テスト
+
+【気をつけること・メモ】
+- CSVはShift-JIS。update_data.pyでは response.encoding = 'shift_jis' を設定している
+- stores.jsonのキー名: name, name_kana, category_large, category_medium, items, area, zip, address, tel, sarubobo
+- さるぼぼコイン対応は '利用可能' / '利用不可' の2値
+- 高山エリアが1472件と大半を占める。地域フィルターは全11地域
+- ローカルで動かすには python -m http.server 8000 が必要（直接ファイルを開くと fetch() がCORSエラーになる）
