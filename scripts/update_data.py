@@ -29,7 +29,7 @@ def fetch_stores():
     print(f"CSVを取得中: {CSV_URL}")
     response = requests.get(CSV_URL, timeout=30)
     response.raise_for_status()
-    response.encoding = "shift_jis"
+    response.encoding = "cp932"
 
     reader = csv.DictReader(io.StringIO(response.text))
     stores = []

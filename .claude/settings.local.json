@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(python:*)",
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "WebFetch(domain:www.city.takayama.lg.jp)"
     ]
   }
 }
