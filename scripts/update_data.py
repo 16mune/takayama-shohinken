@@ -18,7 +18,7 @@ import sys
 import requests
 
 # 加盟店一覧ページのURL（CSVのリンクをここから自動検出する）
-PAGE_URL = "https://www.city.takayama.lg.jp/shisei/1000072/1023161.html"
+PAGE_URL = "https://www.city.takayama.lg.jp/shisei/1000067/1004674/1023161.html"
 BASE_URL = "https://www.city.takayama.lg.jp"
 
 # 出力先（このスクリプトの親ディレクトリ/data/stores.json）
