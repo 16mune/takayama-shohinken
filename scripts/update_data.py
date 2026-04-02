@@ -4,7 +4,7 @@
 使い方:
     python scripts/update_data.py
 
-高山市公式サイトのCSV（Shift-JIS）を取得し、
+高山市公式サイトのページからCSVのURLを自動検出し、
 data/stores.json として保存します。
 """
 
@@ -12,22 +12,43 @@ import csv
 import io
 import json
 import os
+import re
 import sys
 
 import requests
 
-# CSVファイルのURL（高山市公式サイト）
-CSV_URL = "https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/161/kameitenichiran.csv"
+# 加盟店一覧ページのURL（CSVのリンクをここから自動検出する）
+PAGE_URL = "https://www.city.takayama.lg.jp/shisei/1000072/1023161.html"
+BASE_URL = "https://www.city.takayama.lg.jp"
 
 # 出力先（このスクリプトの親ディレクトリ/data/stores.json）
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_PATH = os.path.join(SCRIPT_DIR, "..", "data", "stores.json")
 
 
+def find_csv_url():
+    """ページのHTMLからCSVファイルのURLを探して返す"""
+    print(f"ページを確認中: {PAGE_URL}")
+    response = requests.get(PAGE_URL, timeout=30)
+    response.raise_for_status()
+
+    # href="...*.csv" のリンクをすべて探す
+    matches = re.findall(r'href="([^"]+\.csv)"', response.text)
+    if not matches:
+        raise RuntimeError("ページ内にCSVファイルのリンクが見つかりませんでした")
+
+    csv_path = matches[0]
+    # 相対URLの場合はベースURLを補完する
+    if csv_path.startswith("http"):
+        return csv_path
+    return BASE_URL + csv_path
+
+
 def fetch_stores():
     """CSVをShift-JISで取得し、辞書のリストを返す"""
-    print(f"CSVを取得中: {CSV_URL}")
-    response = requests.get(CSV_URL, timeout=30)
+    csv_url = find_csv_url()
+    print(f"CSVを取得中: {csv_url}")
+    response = requests.get(csv_url, timeout=30)
     response.raise_for_status()
     response.encoding = "cp932"
 
