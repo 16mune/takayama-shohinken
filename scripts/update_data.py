@@ -14,12 +14,12 @@ import json
 import os
 import re
 import sys
+from urllib.parse import urljoin
 
 import requests
 
 # 加盟店一覧ページのURL（CSVのリンクをここから自動検出する）
 PAGE_URL = "https://www.city.takayama.lg.jp/shisei/1000067/1004674/1023161.html"
-BASE_URL = "https://www.city.takayama.lg.jp"
 
 # 出力先（このスクリプトの親ディレクトリ/data/stores.json）
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -37,11 +37,9 @@ def find_csv_url():
     if not matches:
         raise RuntimeError("ページ内にCSVファイルのリンクが見つかりませんでした")
 
-    csv_path = matches[0]
-    # 相対URLの場合はベースURLを補完する
-    if csv_path.startswith("http"):
-        return csv_path
-    return BASE_URL + csv_path
+    # 相対URLも絶対URLも正しく解決する
+    csv_url = urljoin(PAGE_URL, matches[0])
+    return csv_url
 
 
 def fetch_stores():
