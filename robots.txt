@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hiromunen-ctrl.github.io/takayama-shohinken/sitemap.xml
+Sitemap: https://16mune.github.io/takayama-shohinken/sitemap.xml
