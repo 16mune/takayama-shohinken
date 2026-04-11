@@ -528,18 +528,6 @@
     "sarubobo": "利用可能"
   },
   {
-    "name": "アダチ石油㈱　高山SS",
-    "name_kana": "ｱﾀﾞﾁｾｷﾕ",
-    "category_large": "小売業",
-    "category_medium": "ガソリンスタンド・燃料",
-    "items": "石油製品・自動車関連用品・整備",
-    "area": "高山",
-    "zip": "506-0055",
-    "address": "上岡本町1-38",
-    "tel": "33-1122",
-    "sarubobo": "利用不可"
-  },
-  {
     "name": "アダチ石油㈱　東山SS",
     "name_kana": "ｱﾀﾞﾁｾｷﾕ",
     "category_large": "小売業",
@@ -549,6 +537,18 @@
     "zip": "506-0802",
     "address": "松之木町290",
     "tel": "33-8300",
+    "sarubobo": "利用不可"
+  },
+  {
+    "name": "アダチ石油㈱　高山SS",
+    "name_kana": "ｱﾀﾞﾁｾｷﾕ",
+    "category_large": "小売業",
+    "category_medium": "ガソリンスタンド・燃料",
+    "items": "石油製品・自動車関連用品・整備",
+    "area": "高山",
+    "zip": "506-0055",
+    "address": "上岡本町1-38",
+    "tel": "33-1122",
     "sarubobo": "利用不可"
   },
   {
@@ -852,6 +852,18 @@
     "sarubobo": "利用不可"
   },
   {
+    "name": "ARCIENCIEL",
+    "name_kana": "ｱﾙｶﾝｼｪﾙ",
+    "category_large": "その他の業種",
+    "category_medium": "その他",
+    "items": "ダンススタジオ、ピラティスなど",
+    "area": "高山",
+    "zip": "506-0058",
+    "address": "山田町295-1アルカンシェル",
+    "tel": "090-7857-2297",
+    "sarubobo": "利用可能"
+  },
+  {
     "name": "ARS-RAISON",
     "name_kana": "ｱﾙｽﾚｿﾞﾝ",
     "category_large": "飲食業",
@@ -924,6 +936,18 @@
     "sarubobo": "利用可能"
   },
   {
+    "name": "アロマルーム　奏-kanade-",
+    "name_kana": "ｱﾛﾏﾙｰﾑｶﾅﾃﾞ",
+    "category_large": "理美容・エステ業（マッサージ業）",
+    "category_medium": "エステ",
+    "items": "アロマ関連商品他",
+    "area": "高山",
+    "zip": "506-0054",
+    "address": "岡本町2-70-21　高一印章2F",
+    "tel": "050-3188-0745",
+    "sarubobo": "利用不可"
+  },
+  {
     "name": "アン",
     "name_kana": "ｱﾝ",
     "category_large": "小売業",
@@ -970,6 +994,18 @@
     "address": "冬頭町495-5",
     "tel": "57-8821",
     "sarubobo": "利用不可"
+  },
+  {
+    "name": "Ange",
+    "name_kana": "ｱﾝｼﾞｭ",
+    "category_large": "小売業",
+    "category_medium": "雑貨",
+    "items": "雑貨",
+    "area": "高山",
+    "zip": "506-0807",
+    "address": "三福寺町905-6",
+    "tel": "080-5120-6347",
+    "sarubobo": "利用可能"
   },
   {
     "name": "㈲安藤酒店",
@@ -3144,6 +3180,18 @@
     "sarubobo": "利用不可"
   },
   {
+    "name": "oku -起く-",
+    "name_kana": "ｵｸ",
+    "category_large": "飲食業",
+    "category_medium": "食堂",
+    "items": "朝食、昼食",
+    "area": "高山",
+    "zip": "506-0851",
+    "address": "大新町1-95-3",
+    "tel": "0577-54-0650",
+    "sarubobo": "利用可能"
+  },
+  {
     "name": "㈱奥田石材",
     "name_kana": "ｵｸﾀﾞｾｷｻﾞｲ",
     "category_large": "小売業",
@@ -4956,6 +5004,18 @@
     "sarubobo": "利用不可"
   },
   {
+    "name": "gitton",
+    "name_kana": "ｷﾞｯﾄﾝ",
+    "category_large": "小売業",
+    "category_medium": "雑貨",
+    "items": "生活雑貨、洋服、アクセサリー",
+    "area": "高山",
+    "zip": "506-0011",
+    "address": "本町2-34",
+    "tel": "080-3758-5353",
+    "sarubobo": "利用不可"
+  },
+  {
     "name": "木戸脇果樹園　オーチャードハウス",
     "name_kana": "ｷﾄﾞﾜｷｶｼﾞｭｴﾝｵｰﾁｬｰﾄﾞﾊｳｽ",
     "category_large": "小売業",
@@ -5820,6 +5880,18 @@
     "sarubobo": "利用可能"
   },
   {
+    "name": "Gate",
+    "name_kana": "ｹﾞｰﾄ",
+    "category_large": "理美容・エステ業（マッサージ業）",
+    "category_medium": "美容サロン",
+    "items": "まつげエクステンション",
+    "area": "高山",
+    "zip": "506-0052",
+    "address": "下岡本町3057-23　ITハイツ102号",
+    "tel": "090-7610-3346",
+    "sarubobo": "利用不可"
+  },
+  {
     "name": "ゲゼレダイニング　刻のや",
     "name_kana": "ｹﾞｾﾞﾚﾀﾞｲﾆﾝｸﾞﾄｷﾉﾔ",
     "category_large": "飲食業",
@@ -6132,6 +6204,18 @@
     "sarubobo": "利用可能"
   },
   {
+    "name": "coco　growth",
+    "name_kana": "ｺｺｸﾞﾛｰｽ",
+    "category_large": "理美容・エステ業（マッサージ業）",
+    "category_medium": "美容室",
+    "items": "カットや商品・メニュー全般",
+    "area": "高山",
+    "zip": "506-0055",
+    "address": "上岡本町8-391-2",
+    "tel": "54-1207",
+    "sarubobo": "利用不可"
+  },
+  {
     "name": "Koco.Nail",
     "name_kana": "ｺｺﾈｲﾙ",
     "category_large": "理美容・エステ業（マッサージ業）",
@@ -6348,6 +6432,18 @@
     "sarubobo": "利用不可"
   },
   {
+    "name": "古美術　サンガワ",
+    "name_kana": "ｺﾋﾞｼﾞｭﾂｻﾝｶﾞﾜ",
+    "category_large": "小売業",
+    "category_medium": "その他小売り",
+    "items": "古美術品､骨董品､古道具",
+    "area": "高山",
+    "zip": "506-0031",
+    "address": "西之一色町３丁目977-7",
+    "tel": "70-1326",
+    "sarubobo": "利用可能"
+  },
+  {
     "name": "㈱拳",
     "name_kana": "ｺﾌﾞｼ",
     "category_large": "小売業",
@@ -6417,6 +6513,18 @@
     "zip": "506-1434",
     "address": "奥飛騨温泉郷福地834",
     "tel": "050-3561-8898",
+    "sarubobo": "利用不可"
+  },
+  {
+    "name": "古民家宿　みのり家",
+    "name_kana": "ｺﾐﾝｶﾔﾄﾞﾐﾉﾘﾔ",
+    "category_large": "ホテル・旅館業等",
+    "category_medium": "旅館",
+    "items": "宿泊業",
+    "area": "清見",
+    "zip": "506-0202",
+    "address": "清見町大谷455",
+    "tel": "70-8430",
     "sarubobo": "利用不可"
   },
   {
@@ -7020,6 +7128,18 @@
     "sarubobo": "利用可能"
   },
   {
+    "name": "SALON GLANZ.",
+    "name_kana": "ｻﾛﾝｸﾞﾗﾝﾂ",
+    "category_large": "理美容・エステ業（マッサージ業）",
+    "category_medium": "セラピー",
+    "items": "お菓子などの販売",
+    "area": "高山",
+    "zip": "506-0035",
+    "address": "新宮町2269-1",
+    "tel": "090-6072-2885",
+    "sarubobo": "利用不可"
+  },
+  {
     "name": "サロン　ド　フルベール　高山まつもと店",
     "name_kana": "ｻﾛﾝﾄﾞﾌﾙﾍﾞｰﾙﾀｶﾔﾏﾏﾂﾓﾄﾃﾝ",
     "category_large": "理美容・エステ業（マッサージ業）",
@@ -7149,6 +7269,18 @@
     "zip": "506-0001",
     "address": "冬頭町1450-5",
     "tel": "77-9500",
+    "sarubobo": "利用不可"
+  },
+  {
+    "name": "SunCare",
+    "name_kana": "ｻﾝｹｱ",
+    "category_large": "その他の業種",
+    "category_medium": "その他",
+    "items": "犬猫通訳・犬猫筋膜リリース",
+    "area": "高山",
+    "zip": "506-0026",
+    "address": "花里町3-55-5ライオンズマンション高山501号室",
+    "tel": "070-4392-3939",
     "sarubobo": "利用不可"
   },
   {
@@ -7788,6 +7920,18 @@
     "sarubobo": "利用不可"
   },
   {
+    "name": "実践主婦大学　購買部",
+    "name_kana": "ｼﾞｯｾﾝｼｭﾌﾀﾞｲｶﾞｸｺｳﾊﾞｲﾌﾞ",
+    "category_large": "小売業",
+    "category_medium": "その他小売り",
+    "items": "化粧品",
+    "area": "丹生川",
+    "zip": "506-2115",
+    "address": "丹生川町小野70-2",
+    "tel": "090-8569-1845",
+    "sarubobo": "利用不可"
+  },
+  {
     "name": "陣屋前朝市　山田もち店",
     "name_kana": "ｼﾞﾆｬﾏｴｱｻｲﾁﾔﾏﾀﾞﾓﾁﾃﾝ",
     "category_large": "小売業",
@@ -8148,6 +8292,18 @@
     "sarubobo": "利用可能"
   },
   {
+    "name": "車門",
+    "name_kana": "ｼｬﾓﾝ",
+    "category_large": "小売業",
+    "category_medium": "食料品",
+    "items": "白菜キムチ",
+    "area": "高山",
+    "zip": "506-0053",
+    "address": "昭和町1-146-1",
+    "tel": "090-8321-4402",
+    "sarubobo": "利用不可"
+  },
+  {
     "name": "シャルム　ヘアアート",
     "name_kana": "ｼｬﾙﾑﾍｱｱｰﾄ",
     "category_large": "理美容・エステ業（マッサージ業）",
@@ -8410,6 +8566,18 @@
     "address": "下二之町44",
     "tel": "32-1866",
     "sarubobo": "利用可能"
+  },
+  {
+    "name": "荘川ガレット",
+    "name_kana": "ｼｮｳｶﾜｶﾞﾚｯﾄ",
+    "category_large": "飲食業",
+    "category_medium": "専門料理店",
+    "items": "蕎麦粉のガレット",
+    "area": "荘川",
+    "zip": "501-5411",
+    "address": "荘川町牧戸30-1",
+    "tel": "0576-92-2035",
+    "sarubobo": "利用不可"
   },
   {
     "name": "荘川高原カントリー倶楽部",
@@ -9040,6 +9208,18 @@
     "name_kana": "ｽﾀﾞﾋﾞｮｳｲﾝ",
     "category_large": "生活関連業",
     "category_medium": "医療",
+    "items": "日用品・消耗品",
+    "area": "国府",
+    "zip": "509-4124",
+    "address": "国府町村山235番地2",
+    "tel": "72-2100",
+    "sarubobo": "利用不可"
+  },
+  {
+    "name": "須田病院",
+    "name_kana": "ｽﾀﾞﾋﾞｮｳｲﾝ",
+    "category_large": "生活関連業",
+    "category_medium": "医療",
     "items": "医療費",
     "area": "国府",
     "zip": "509-4124",
@@ -9249,6 +9429,18 @@
     "zip": "509-3325",
     "address": "朝日町万石225-1",
     "tel": "55-3222",
+    "sarubobo": "利用不可"
+  },
+  {
+    "name": "スマイルいしうら薬局",
+    "name_kana": "ｽﾏｲﾙｲｼｳﾗﾔｯｷｮｸ",
+    "category_large": "小売業",
+    "category_medium": "薬局・医薬品",
+    "items": "処方せん調剤、医薬品",
+    "area": "高山",
+    "zip": "506-0825",
+    "address": "石浦町6丁目203-1",
+    "tel": "35-5505",
     "sarubobo": "利用不可"
   },
   {
@@ -9912,6 +10104,18 @@
     "sarubobo": "利用不可"
   },
   {
+    "name": "㈱ダイキ",
+    "name_kana": "ﾀﾞｲｷ",
+    "category_large": "建設業",
+    "category_medium": "設備",
+    "items": "ボイラー・トイレ・風呂・洗面所",
+    "area": "高山",
+    "zip": "506-0002",
+    "address": "問屋町73",
+    "tel": "34-0468",
+    "sarubobo": "利用不可"
+  },
+  {
     "name": "㈲大輝コーポレーション",
     "name_kana": "ﾀﾞｲｷｺｰﾎﾟﾚｰｼｮﾝ",
     "category_large": "自動車販売・修理業",
@@ -10125,6 +10329,18 @@
     "zip": "509-3205",
     "address": "久々野町久々野2076-2",
     "tel": "52-2800",
+    "sarubobo": "利用可能"
+  },
+  {
+    "name": "太陽電光",
+    "name_kana": "ﾀｲﾖｳﾃﾞﾝｺｳ",
+    "category_large": "建設業",
+    "category_medium": "住宅建築",
+    "items": "電気工事、電気機器",
+    "area": "高山",
+    "zip": "506-0041",
+    "address": "下切町４１８－１４",
+    "tel": "090-1567-5295",
     "sarubobo": "利用可能"
   },
   {
@@ -10740,6 +10956,18 @@
     "sarubobo": "利用可能"
   },
   {
+    "name": "高山名産館",
+    "name_kana": "ﾀｶﾔﾏﾒｲｻﾝｶﾝ",
+    "category_large": "小売業",
+    "category_medium": "その他小売り",
+    "items": "土産品・民芸品・地酒",
+    "area": "高山",
+    "zip": "506-0026",
+    "address": "花里町6-124",
+    "tel": "34-0502",
+    "sarubobo": "利用可能"
+  },
+  {
     "name": "高山ユーハイム",
     "name_kana": "ﾀｶﾔﾏﾕｰﾊｲﾑ",
     "category_large": "小売業",
@@ -11160,6 +11388,18 @@
     "sarubobo": "利用可能"
   },
   {
+    "name": "玉一",
+    "name_kana": "ﾀﾏｲﾁ",
+    "category_large": "飲食業",
+    "category_medium": "専門料理店",
+    "items": "たまごかけご飯",
+    "area": "高山",
+    "zip": "506-0008",
+    "address": "初田町1丁目42-13",
+    "tel": "0577-57-8649",
+    "sarubobo": "利用可能"
+  },
+  {
     "name": "㈲たま井や",
     "name_kana": "ﾀﾏｲﾔ",
     "category_large": "小売業",
@@ -11254,6 +11494,18 @@
     "address": "本町4-65",
     "tel": "32-1212",
     "sarubobo": "利用不可"
+  },
+  {
+    "name": "ダルマベーカリー",
+    "name_kana": "ﾀﾞﾙﾏﾍﾞｰｶﾘｰ",
+    "category_large": "飲食業",
+    "category_medium": "その他飲食店",
+    "items": "パン",
+    "area": "高山",
+    "zip": "506-0045",
+    "address": "赤保木町1000",
+    "tel": "0577-70-1222",
+    "sarubobo": "利用可能"
   },
   {
     "name": "丹とん庵",
@@ -13548,6 +13800,18 @@
     "sarubobo": "利用不可"
   },
   {
+    "name": "野中商店",
+    "name_kana": "ﾉﾅｶｼｮｳﾃﾝ",
+    "category_large": "小売業",
+    "category_medium": "食料品",
+    "items": "菓子・日用品",
+    "area": "国府",
+    "zip": "509-4124",
+    "address": "国府町村山235-5須田病院　院内売店",
+    "tel": "0577-72-2310",
+    "sarubobo": "利用不可"
+  },
+  {
     "name": "のなか商店",
     "name_kana": "ﾉﾅｶｼｮｳﾃﾝ",
     "category_large": "小売業",
@@ -13560,15 +13824,27 @@
     "sarubobo": "利用可能"
   },
   {
-    "name": "野中商店",
-    "name_kana": "ﾉﾅｶｼｮｳﾃﾝ",
+    "name": "ノナカベーカリー",
+    "name_kana": "ﾉﾅｶﾍﾞｰｶﾘｰ",
     "category_large": "小売業",
-    "category_medium": "食料品",
-    "items": "菓子・日用品",
-    "area": "国府",
-    "zip": "509-4124",
-    "address": "国府町村山235-5須田病院　院内売店",
-    "tel": "0577-72-2310",
+    "category_medium": "パン・菓子",
+    "items": "パン・お菓子",
+    "area": "高山",
+    "zip": "506-0004",
+    "address": "桐生町2-241",
+    "tel": "62-9119",
+    "sarubobo": "利用可能"
+  },
+  {
+    "name": "のの花",
+    "name_kana": "ﾉﾉﾊﾅ",
+    "category_large": "飲食業",
+    "category_medium": "酒場",
+    "items": "飲食",
+    "area": "高山",
+    "zip": "506-0843",
+    "address": "下一之町52",
+    "tel": "35-5338",
     "sarubobo": "利用不可"
   },
   {
@@ -13798,6 +14074,18 @@
     "address": "天満町3-60",
     "tel": "090-8676-9959",
     "sarubobo": "利用不可"
+  },
+  {
+    "name": "パーラー　だるま",
+    "name_kana": "ﾊﾟｰﾗｰﾀﾞﾙﾏ",
+    "category_large": "飲食業",
+    "category_medium": "専門料理店",
+    "items": "タコライス・スパイスカレー",
+    "area": "高山",
+    "zip": "506-0007",
+    "address": "総和町2-3-12",
+    "tel": "090-9192-9226",
+    "sarubobo": "利用可能"
   },
   {
     "name": "バー　ラムダンスホール",
@@ -14712,18 +15000,6 @@
     "sarubobo": "利用不可"
   },
   {
-    "name": "bee ｄance Studio",
-    "name_kana": "ﾋﾞｰﾀﾞﾝｽｽﾀｼﾞｵ",
-    "category_large": "生活関連業",
-    "category_medium": "エアロビクス・ダンス教室",
-    "items": "レッスン受講料",
-    "area": "高山",
-    "zip": "506-0055",
-    "address": "上岡本町7-500-1　JOYビル　2F",
-    "tel": "33-5667",
-    "sarubobo": "利用不可"
-  },
-  {
     "name": "beeDanceStudio",
     "name_kana": "ﾋﾞｰﾀﾞﾝｽｽﾀｼﾞｵ",
     "category_large": "生活関連業",
@@ -14733,6 +15009,18 @@
     "zip": "509-4123",
     "address": "国府町金桶41スーパーセンターシマヤ　ラクール飛騨高山店内　2階",
     "tel": "0577-33-5667",
+    "sarubobo": "利用不可"
+  },
+  {
+    "name": "bee ｄance Studio",
+    "name_kana": "ﾋﾞｰﾀﾞﾝｽｽﾀｼﾞｵ",
+    "category_large": "生活関連業",
+    "category_medium": "エアロビクス・ダンス教室",
+    "items": "レッスン受講料",
+    "area": "高山",
+    "zip": "506-0055",
+    "address": "上岡本町7-500-1　JOYビル　2F",
+    "tel": "33-5667",
     "sarubobo": "利用不可"
   },
   {
@@ -18108,6 +18396,18 @@
     "sarubobo": "利用可能"
   },
   {
+    "name": "Hoshi & Co.",
+    "name_kana": "ﾎｼｱﾝﾄﾞｶﾝﾊﾟﾆｰ",
+    "category_large": "小売業",
+    "category_medium": "雑貨",
+    "items": "雑貨",
+    "area": "一之宮",
+    "zip": "509-3505",
+    "address": "一之宮町2066-1",
+    "tel": "080-1603-7693",
+    "sarubobo": "利用不可"
+  },
+  {
     "name": "ほずゑ自動車",
     "name_kana": "ﾎｽﾞｴｼﾞﾄﾞｳｼｬ",
     "category_large": "自動車販売・修理業",
@@ -19548,6 +19848,18 @@
     "sarubobo": "利用可能"
   },
   {
+    "name": "民芸たぬき",
+    "name_kana": "ﾐﾝｹﾞｲﾀﾇｷ",
+    "category_large": "小売業",
+    "category_medium": "その他小売り",
+    "items": "古布･骨董・古美術",
+    "area": "高山",
+    "zip": "506-0031",
+    "address": "西之一色町3-750-14",
+    "tel": "32-1417",
+    "sarubobo": "利用可能"
+  },
+  {
     "name": "民芸　まるも",
     "name_kana": "ﾐﾝｹﾞｲﾏﾙﾓ",
     "category_large": "小売業",
@@ -19872,7 +20184,7 @@
     "sarubobo": "利用不可"
   },
   {
-    "name": "麺屋一丁",
+    "name": "?屋一丁",
     "name_kana": "ﾒﾝﾔｲｯﾁｮｳ",
     "category_large": "飲食業",
     "category_medium": "麺類店",
@@ -20122,6 +20434,18 @@
     "address": "荘川町牧戸11-1",
     "tel": "05769-2-2008",
     "sarubobo": "利用不可"
+  },
+  {
+    "name": "森のCAFE　RabbitHills",
+    "name_kana": "ﾓﾘﾉｶﾌｪﾗﾋﾞｯﾄﾋﾙｽﾞ",
+    "category_large": "飲食業",
+    "category_medium": "レストラン",
+    "items": "カフェメニュー、陶芸体験",
+    "area": "高山",
+    "zip": "506-0843",
+    "address": "下一之町52",
+    "tel": "070-2294-6564",
+    "sarubobo": "利用可能"
   },
   {
     "name": "森林緑々園",
@@ -21732,6 +22056,18 @@
     "sarubobo": "利用可能"
   },
   {
+    "name": "Luce（るーちぇ）",
+    "name_kana": "ﾙｰﾁｪ",
+    "category_large": "飲食業",
+    "category_medium": "酒場",
+    "items": "スナック",
+    "area": "高山",
+    "zip": "506-0008",
+    "address": "初田町1-27",
+    "tel": "34-5092",
+    "sarubobo": "利用可能"
+  },
+  {
     "name": "ROOT body care salon",
     "name_kana": "ﾙｰﾄﾎﾞﾃﾞｨｹｱｻﾛﾝ",
     "category_large": "理美容・エステ業（マッサージ業）",
@@ -21948,6 +22284,18 @@
     "sarubobo": "利用可能"
   },
   {
+    "name": "ロイヤル化粧品㈱ 代理店　肥垣津",
+    "name_kana": "ﾛｲﾔﾙｹｼｮｳﾋﾝ",
+    "category_large": "小売業",
+    "category_medium": "その他小売り",
+    "items": "化粧品・サプリメント",
+    "area": "高山",
+    "zip": "506-0825",
+    "address": "石浦町2-291",
+    "tel": "34-8357",
+    "sarubobo": "利用可能"
+  },
+  {
     "name": "ロイヤル化粧品 古垣内郁美代理店",
     "name_kana": "ﾛｲﾔﾙｹｼｮｳﾋﾝ",
     "category_large": "小売業",
@@ -21960,16 +22308,16 @@
     "sarubobo": "利用不可"
   },
   {
-    "name": "ロイヤル化粧品㈱ 代理店　肥垣津",
-    "name_kana": "ﾛｲﾔﾙｹｼｮｳﾋﾝ",
+    "name": "ロイヤル化粧品代理店",
+    "name_kana": "ﾛｲﾔﾙｹｼｮｳﾋﾝﾀﾞｲﾘﾃﾝ",
     "category_large": "小売業",
     "category_medium": "その他小売り",
-    "items": "化粧品・サプリメント",
-    "area": "高山",
-    "zip": "506-0825",
-    "address": "石浦町2-291",
-    "tel": "34-8357",
-    "sarubobo": "利用可能"
+    "items": "化粧品・サプリ",
+    "area": "朝日",
+    "zip": "509-3321",
+    "address": "朝日町黒川550",
+    "tel": "55-3415",
+    "sarubobo": "利用不可"
   },
   {
     "name": "ロイヤル化粧品㈱代理店",
@@ -21993,18 +22341,6 @@
     "zip": "506-0004",
     "address": "桐生町3-286",
     "tel": "32-5393",
-    "sarubobo": "利用不可"
-  },
-  {
-    "name": "ロイヤル化粧品代理店",
-    "name_kana": "ﾛｲﾔﾙｹｼｮｳﾋﾝﾀﾞｲﾘﾃﾝ",
-    "category_large": "小売業",
-    "category_medium": "その他小売り",
-    "items": "化粧品・サプリ",
-    "area": "朝日",
-    "zip": "509-3321",
-    "address": "朝日町黒川550",
-    "tel": "55-3415",
     "sarubobo": "利用不可"
   },
   {
@@ -22486,5 +22822,17 @@
     "address": "西之一色町3-673-6",
     "tel": "33-9204",
     "sarubobo": "利用可能"
+  },
+  {
+    "name": "わんわんランドリー",
+    "name_kana": "ﾜﾝﾜﾝﾗﾝﾄﾞﾘｰ",
+    "category_large": "生活関連業",
+    "category_medium": "ペット関連",
+    "items": "ペットトリミング",
+    "area": "高山",
+    "zip": "506-0818",
+    "address": "江名子町７６８－２",
+    "tel": "070-5325-1673",
+    "sarubobo": "利用不可"
   }
 ]
