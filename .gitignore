@@ -13,3 +13,6 @@ Thumbs.db
 
 # Claude Code のローカル設定（各PC固有。公開リポジトリに含めない）
 .claude/settings.local.json
+
+# 作業引き継ぎメモ（内部用。公開リポジトリに含めない）
+claude-progress.txt
