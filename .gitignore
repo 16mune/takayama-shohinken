@@ -1,0 +1,15 @@
+# 認証情報・シークレット（絶対にGitにコミットしない）
+gcp-oauth.keys.json
+*.keys.json
+credentials.json
+token.json
+.gdrive-server-credentials.json
+*.env
+.env*
+
+# OS・エディタ
+.DS_Store
+Thumbs.db
+
+# Claude Code のローカル設定（各PC固有。公開リポジトリに含めない）
+.claude/settings.local.json
